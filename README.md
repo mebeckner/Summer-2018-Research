@@ -1,0 +1,2 @@
+# Summer-2018-Research
+This repository contains code from my research with Professor Kendra Burbank at the University of Chicago. My goal was to practice creating Convolutional Neural Networks with variations in activation functions in Python and Tensorflow, ultimately to create and model a biologically realistic neural network. This work sparked an interest in Generative Adversarial Networks. My next project was using pix2pix to generate images of baseball infield shift heat maps in response to ground ball spray charts by learning through paired images.
